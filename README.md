@@ -1,0 +1,1 @@
+This repo demonstrates how to send notification on AWS SNS using java spring boot application.
