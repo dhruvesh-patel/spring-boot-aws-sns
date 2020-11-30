@@ -1,4 +1,4 @@
-This repo demonstrates how to send email notification using AWS SNS and java spring boot application. Notifications are important aspect of software and easy / quick notification mechanism with AWS SNS offers ability to quickly develop nofification service. 
+This repo demonstrates how to send email notification using AWS SNS and java spring boot application. Notifications are important aspect of software and easy / quick notification mechanism with AWS SNS offers ability to quickly develop notification service. 
 
 Pre-requisite:
 1) JDK 11
@@ -44,5 +44,5 @@ For example, http://localhost:8721/addSubscription/abc@gmail.com
 GET http://localhost:8721/sendNotification
 ```
 
-When you do this, SNS Topic will receive email subject and email body to all email thats have subscribed to topic. 
+When you do this, SNS Topic will receive email subject and email body to all email that have subscribed to topic. 
 
